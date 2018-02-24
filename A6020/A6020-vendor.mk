@@ -474,4 +474,4 @@ PRODUCT_PACKAGES += \
     imscmlibrary \
     imssettings \
     TimeService \
-    Footej
+    SnapCam

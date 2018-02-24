@@ -100,11 +100,11 @@ LOCAL_MODULE_SUFFIX := .jar
 include $(BUILD_PREBUILT)
 
 
-# Footej Camera
+# Snap Camera
 include $(CLEAR_VARS)
-LOCAL_MODULE := Footej
-LOCAL_MODULE_OWNER := FootejTeam
-LOCAL_SRC_FILES := proprietary/priv-app/Footej/footej.apk
+LOCAL_MODULE := SnapCam
+LOCAL_MODULE_OWNER := SnapTeam
+LOCAL_SRC_FILES := proprietary/priv-app/SnapCam/SnapCam.apk
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_CLASS := APPS
 LOCAL_CERTIFICATE := PRESIGNED
